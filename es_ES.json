@@ -1,0 +1,148 @@
+{
+    "page404": {
+        "title": "Lo sentimos, página no encontrada!",
+        "paragraph": "La página que está buscando podría haberse eliminado o no estar disponible temporalmente.",
+        "goBack": "Volver a pagina principal"
+    },
+    "global": {
+        "systemHome": "System home",
+        "loading": "Cargando dato",
+        "apply": "APLICAR",
+        "cancel": "CANCELAR",
+        "benchmarkScenario": "Benchmark",
+        "baseScenario": "Scenario 1",
+        "remove": "Borrar",
+        "ok": "Ok",
+        "serverErrorMessage": "Error procesando la respuesta del servidor",
+        "serverErrorTitle": "Atención",
+        "dcp": {
+            "selections": "Selections",
+            "category": "Categoría",
+            "markeeeeeeeeeeet": "Mercado",
+            "periodStart": "Periodo de inicio",
+            "periodEnd": "Periodo final",
+            "items": "Artículos a mostrar",
+            "noItems": "Sin artículos",
+            "region": "Region",
+            "error_period": "El periodo de inicio no puede ser mayor que el de fin",
+            "planName": "Nombre del plan",
+            "numberOfWeeks": "# de semanas",
+            "categoriesDescription": "{{numOfCategories}} categorías"
+        },
+        "title": {
+            "fill": "Rellenar",
+            "products": "productos seleccionados",
+            "allItems": "Todos los productos de",
+            "weeks": "semanas",
+            "copyPlan": "Copiar plan",
+            "downloadPlan": "Descargar plan",
+            "reportPlan": "Reportar plan"
+        },
+        "scenarioPopup": {
+            "newScenario": "Nuevo escenario",
+            "populateBenchmark": "Crear como benchmark",
+            "copyFromScenario": "Copiar desde otro escenario",
+            "placeHolderScenarioName": "Nombre de escenario",
+            "scenarioInputNameInfo": "Nombre de escenario no disponible",
+            "editScenario": "Editar nombre del escenario",
+            "removeScenario": "Borrar escenario",
+            "removeScenarioMessage": "¿Está seguro de querer borrar el escenario {{scenarioName}}?",
+            "removeScenarioWarning": "Usted no tiene permisos para borrar este escenario."
+        },
+        "planPopup": {
+            "newPlan": "Nuevo plan",
+            "populateBenchmark": "Crear como benchmark",
+            "copyFromPlan": "Copiar desde otro plan",
+            "placeHolderPlanName": "Nombre de plan",
+            "PlanInputNameInfo": "Nombre de plan no disponible",
+            "editPlan": "Editar nombre del plan",
+            "removePlan": "Borrar plan",
+            "removePlanMessage": "¿Está seguro de querer borrar el plan actual?",
+            "removePlanMessageInGrid": "¿Está seguro de querer borrar el {{planName}} plan?",
+            "removePlanWarning": "Usted no tiene permisos para borrar este ePlan."
+        }
+    },
+    "hamburguer": {
+        "screens": "Pantallas"
+    },
+    "regular": {
+        "recalcButtonText": "RECALCULAR",
+        "screenTitle": "Pnp Simulation - Plan scenario",
+        "displayName": "Plan scenario",
+        "editPlanWarning": "Usted no tiene permisos para editar este plan",
+        "kpiWidgets": {
+            "baseUnitsOut": "Base units | Change",
+            "baseSalesOut": "Base sales | Change",
+            "mfrGrossRevenue": "Mfr gross revenue | Change",
+            "categoryShare": "Category % share | Change"
+        },
+        "grid": {
+            "itemsDescription": "Items",
+            "itemsDescriptionTooltip": "Items description",
+            "category": "Category",
+            "manufacturer": "Manufacturer",
+            "brand": "Brand",
+            "subBrand": "Sub-brand",
+            "packSize": "Pack size",
+            "totalSize": "Total size",
+            "avgRegularPrice": "AVG regular price",
+            "threshold": "Threshold",
+            "listPrice": "List price",
+            "baseUnitInp": "Base units",
+            "regularPriceL13WInp": "Regular price L13W",
+            "regularPriceInp": "Regular price",
+            "newRegularPriceInp": "New reg price",
+            "eqPricePerUnit": "EQ price per unit",
+            "edlpInput": "EDLP",
+            "baseUnitsOut": "Base units out",
+            "baseSalesValue": "Base sales value",
+            "mfrGrossRevenue": "Mfr gross revenue",
+            "mfrSpend": "Mfr spend",
+            "input": "Input",
+            "output": "Output",
+            "datedPriceEntry": "Dated pricing entry",
+            "effectiveDate": "Effective date",
+            "totalUnits": "Total de unidades",
+            "nonPromoUnits": "Unidades no promo",
+            "promoUnits": "Unidades promo",
+            "promoPrice": "Precio promo",
+            "tprDiscount": "TPR % discount",
+            "tprWeeks": "TPR weeks",
+            "featureDiscount": "Feature % discount",
+            "featureWeeks": "Feature weeks",
+            "displayDiscount": "Display % discount",
+            "displayWeeks": "Display weeks",
+            "fdDiscount": "F&D % discount",
+            "fdWeeks": "F&D weeks"
+        },
+        "massEdit": {
+            "titleItem": "Edición de {{numRows}} elemento",
+            "titleItems": "Edición de {{numRows}} elementos"
+        },
+        "columnChooser": {
+            "title": "Selection"
+        }
+    },
+    "landing": {
+        "displayName": "New landing",
+        "title": "PnP Simulator - Landing",
+        "menu": {
+            "newPlan": "Add new plan with a fresh start",
+            "modifyPlan": "Modify plan where you left off",
+            "newPlanButton": "Add plan",
+            "modifyPlanButton": "Modify plan"
+        },
+        "grid": {
+            "planName": "Plan name",
+            "source": "Source",
+            "lastModified": "Last modified",
+            "planDates": "Plan dates",
+            "category": "Category",
+            "market": "Market",
+            "action": "Action"
+        },
+        "dataset": {
+            "label": "Project: "
+        }
+    }
+}
